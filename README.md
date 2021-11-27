@@ -1,25 +1,14 @@
-# Aplikasi Forum
+# Forum APP
 
-Aplikasi ini menggunakan state management GetX dan Socket.IO untuk realtime data
-menggunakan GetxController dan GetBuilder untuk update UI,menggunakan Getx Navigation untuk
-navigasi halaman,GetXService untuk handling notification dari Socket.IO
+Application using Socket.io and WYSWIG HTML
 
-untuk user bisa di register atau bisa lihat di database passwordnya semua giorno95
+## API
 
-Silahkan ubah alamat API di file lib\helper\server.dart
+You can edit the API address and Image Address at  lib/helper/server.dart and get Database and Backend API at https://github.com/mrstein21/forum_node_socket
 
-untuk dokumentasi API dan Dashboard silahkan
-download di <a id="raw-url" href="https://github.com/mrstein21/forum_api">https://github.com/mrstein21/forum_api</a>
+## Screen Shoot
 
-
-Selamat Mempelajari,Semoga Bermanfaat
-
- Screen Shoot Aplikasi :
- ![](images/home1.jpeg)
- <br/><br/>
- ![](images/home2.jpeg)
- <br/><br/>
- ![](images/home3.jpeg)
-  <br/><br/>
-  ![](images/home4.jpeg)
+ ![](images/ss2.png)
+ ![](images/ss1.png)
+ ![](images/ss3.png)
 
